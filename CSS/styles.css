@@ -1,3 +1,6 @@
 body{
     background-color: lightblue;
 }
+#horizontal{
+    padding-left: 50%;
+}
