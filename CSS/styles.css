@@ -26,7 +26,6 @@ li{
     float: left;
     display: inline;
     background-color: orange;
-    padding-inline: 100px;
     width: 100%;
     text-align: center;
     
@@ -38,5 +37,5 @@ a{
     
 }
 header{
-
+    
 }
