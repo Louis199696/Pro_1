@@ -13,8 +13,13 @@ li{
     display: inline;
     padding-left: 15%;
     
+    
 }
 li a{
     background-color: orange;
     
+    
+}
+a{
+    display: block;
 }
