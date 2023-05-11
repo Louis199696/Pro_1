@@ -1,3 +1,7 @@
+#wrapper{
+    width: 500px;
+}
+
 body{
     background-color: lightblue;
 }
