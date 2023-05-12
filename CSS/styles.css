@@ -1,3 +1,4 @@
+/* #wrapper style section */
 #wrapper{
     width: 100%;
     height: 100%;
@@ -9,19 +10,21 @@
     margin: 0px;
 
 }
-
+/* body style section */
 body{
     background-color: lightblue;
 }
+/* #nav style section */
 #nav{
     margin-top: 20px;
     text-align: center;
-    
 }
+/* h1 style section */
 h1{
     padding-top: 150px;
     font-size: 50px;
 }
+/* inner list section aligned with links style sction */
 li{
     display: inline;
     padding: 150px;
@@ -29,6 +32,7 @@ li{
 
     
 }
+/* outer link box containing links to navigation style section */
 ul{
     margin: 0;
     height: 45px;
