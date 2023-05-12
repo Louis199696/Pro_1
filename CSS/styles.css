@@ -44,3 +44,7 @@ ul{
 li a:hover{
     background-color: grey;
 }
+/* visited link */
+li a:visited{
+    color: purple;
+}
