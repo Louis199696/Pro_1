@@ -16,6 +16,7 @@ body{
 #nav{
     margin-top: 20px;
     text-align: center;
+    
 }
 h1{
     padding-top: 150px;
@@ -24,11 +25,13 @@ h1{
 li{
     display: inline;
     padding: 150px;
-    font-size: 25px;
+    font-size: 34px;
+
     
 }
 ul{
     margin: 0;
     height: 50px;
     background-color: orange;
+    
 }
