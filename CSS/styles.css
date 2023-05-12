@@ -40,6 +40,7 @@ ul{
     border-radius: 20px;
     
 }
+/* mouse over link */
 li a:hover{
     background-color: grey;
 }
