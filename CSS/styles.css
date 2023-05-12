@@ -40,3 +40,6 @@ ul{
     border-radius: 20px;
     
 }
+li a:hover{
+    background-color: grey;
+}
