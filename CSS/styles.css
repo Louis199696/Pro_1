@@ -22,7 +22,7 @@ h1{
 }
 li{
     display: inline;
-    padding-inline: 10%;
+    padding: 150px;
 }
 ul{
     margin: 0;
