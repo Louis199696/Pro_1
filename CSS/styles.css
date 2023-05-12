@@ -1,5 +1,5 @@
 /* #wrapper style section */
-#wrapper{
+#wrapper {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -11,29 +11,27 @@
 
 }
 /* body style section */
-body{
+body {
     background-color: lightblue;
 }
 /* #nav style section */
-#nav{
+#nav {
     margin-top: 0px;
     text-align: center;
 }
 /* h1 style section */
-h1{
-    padding-top: 150px;
+h1 {
+     padding-top: 150px;
     font-size: 50px;
 }
 /* inner list section aligned with links style sction */
-li{
+li {
     display: inline;
     padding: 150px;
     font-size: 34px;
-
-    
 }
 /* outer link box containing links to navigation style section */
-ul{
+ul {
     margin: 0;
     height: 45px;
     background-color: orange;
@@ -41,10 +39,14 @@ ul{
     
 }
 /* mouse over link */
-li a:hover{
+li a:hover {
     background-color: grey;
 }
 /* visited link */
 li a:visited{
     color: purple;
+}
+/* href links style section */
+a {
+   
 }
