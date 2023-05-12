@@ -26,5 +26,6 @@ li{
 }
 ul{
     margin: 0;
+    height: 50px;
     background-color: orange;
 }
